@@ -1,5 +1,4 @@
 - Hi, I’m @PositiveUser
 - I love coding
-- I currently learning Tailwind CSS.
 ---
 - Thank you very much

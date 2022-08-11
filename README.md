@@ -1,4 +1,0 @@
-- Hi, I’m @PositiveUser
-- I love coding
----
-- Thank you very much
